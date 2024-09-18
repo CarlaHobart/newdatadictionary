@@ -1,7 +1,12 @@
 AMR data
 
+Last updated 18/09/24
+
 100,000 rows of 12 variables
 
 These data represented the sort of data that might be obtained from the 2nd generation surveillance system.
+
+*id integer - a unique identified for each person
+* dob Xharacter - a string giving the date of birth
 
 
